@@ -1,0 +1,8 @@
+booth.sh
+
+Usage
+
+./booth.sh http://dailyboothurl /path/to/folder/with/trailing/slash/
+
+Scrapes user pages for photos and grabs all of them in the original,
+uploaded quality.
